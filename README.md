@@ -1,4 +1,4 @@
-### Hello World :earth_americas:,  I'm Jiannina.👋
+# Hello World :earth_americas:,  I'm Jiannina!👋
 
 <!--
 **jianninapinto/jianninapinto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,26 +17,50 @@ Here are some ideas to get you started:
 
 Hi there, I'm Jiannina, an aspiring Data Scientist with a Bachelor in Economics :chart_with_upwards_trend: and Finances :moneybag:. I'm currently studying and learning about Python, SQL & Databases, Data Visualization, Linear Algebra & Statistical Analysis through the Data Science Program at [Bloom Institute of Technollogy](https://github.com/bloominstituteoftechnology), also known as [BloomTech](https://www.bloomtech.com/). 
 
-**About Me:**
-- 👩🏾‍💻 I have a Bachelor of Science in Economics and Finances.
-- 🌱 I’m currently continuing my professional studies and improving my skills on statistics, supervised learning, predictive modeling and data visualization.
-- 🤔 My interests are with Financial Modeling and Recurring Neural Networks.
-- 💼 I’m pursuing a Data Science Program for a career in Data Science, Data Analytics, Business Intelligence or Data Engineering.
-- 💬 Ask me about anything, I am happy to help;
-- 📫 Please email via jiannina.pinto@gmail.com to reach me.
+## About Me:
+- ⚡ Fun fact: I would love to see the dance of the Northern Lights 
+<img height=20px src="https://finland.fi/wp-content/uploads/2017/02/39-aurora-borealis-revontulet.gif"> at least once in my life. I live in Minnesota ✴️, the North Star State,  where there are some chances to see them, but I haven't been lucky yet. Have you ever seen Aurora Borealis? How was your experience?
+- 👩🏾‍💻 I have a Bachelor of Science 🎓 in Economics and Finances.
+- 🌱 I’m currently continuing my professional studies and improving my skills on statistics 📈, supervised machine learning, predictive modeling and 📊 data visualization.
+- 🤔 My interests are with Big Data, Financial Modeling and Recurring Neural Networks.
+- 🚀 I’m pursuing a Data Science Program for a career in 🕸️ Data Science, Data Analytics, Business Intelligence or Data Engineering.
+- 🤓 I believe in what Einstein said: "Once you stop learning you start dying."
+- ✨ I'm passionate about learning and working across domains to help solve 💼 business problems.
 
-**Languages and Tools:**  
+## Languages and Tools:
 
+ <table>
+<tbody>
+ <tr>
+<td align="center" width="15%">
+<img height=60px src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"> 
+</td>
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<td align="center" width="15%">
+<img height=60px src="https://jupyter.org/assets/homepage/main-logo.svg"> 
+</td>
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<td align="center" width="15%">
+<img height=60px src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png">
+</td>
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<td align="center" width="15%">
+<img height=60px src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg"> 
+</td>
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+<td align="center" width="15%">
+<img height=60px src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg"> 
+</td>
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png></code>
+<td align="center" width="15%">
+<img height=60px src="https://matplotlib.org/stable/_static/images/logo_dark.svg"> 
+</td>
 
-<code><img height="20" src="https://camo.githubusercontent.com/69ce21304adac467a8251181f98932e1785abd9d718cdd8edc78d1abbf2dcb49/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f302f30352f5363696b69745f6c6561726e5f6c6f676f5f736d616c6c2e737667></code>
+</tr>
+</tbody>
+</table>
+
+##  Let's connect :speech_balloon:
+[![Linkedin Badge](https://img.shields.io/badge/-Jiannina-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jiannina-pinto/)](https://www.linkedin.com/in/jiannina-pinto/) [![Gmail Badge](https://img.shields.io/badge/-jiannina.pinto@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jiannina.pinto@gmail.com)](mailto:jiannina.pinto@gmail.com) [![Kaggle Badge](https://img.shields.io/badge/-@Jiannina-21BEFF?style=flat-square&labelColor=21BEFF&logo=kaggle&logoColor=white&link=https://www.kaggle.com/jianninapinto)](https://www.kaggle.com/jianninapinto6/)
+
 
