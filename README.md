@@ -61,6 +61,6 @@ I'm an aspiring Data Scientist with a Bachelor in Economics :chart_with_upwards_
 </table>
 
 ##  Let's connect :speech_balloon:
-[![Linkedin Badge](https://img.shields.io/badge/-Jiannina-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jiannina-pinto/)](https://www.linkedin.com/in/jiannina-pinto/{:target="_blank"}) [![Gmail Badge](https://img.shields.io/badge/-jiannina.pinto@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jiannina.pinto@gmail.com)](mailto:jiannina.pinto@gmail.com{:target="_blank"}) [![Kaggle Badge](https://img.shields.io/badge/-@Jiannina-21BEFF?style=flat-square&labelColor=21BEFF&logo=kaggle&logoColor=white&link=https://www.kaggle.com/jianninapinto)](https://www.kaggle.com/jianninapinto6/{:target="_blank"})
+[![Linkedin Badge](https://img.shields.io/badge/-Jiannina-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jiannina-pinto/)](https://www.linkedin.com/in/jiannina-pinto/) [![Gmail Badge](https://img.shields.io/badge/-jiannina.pinto@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jiannina.pinto@gmail.com)](mailto:jiannina.pinto@gmail.com) [![Kaggle Badge](https://img.shields.io/badge/-@Jiannina-21BEFF?style=flat-square&labelColor=21BEFF&logo=kaggle&logoColor=white&link=https://www.kaggle.com/jianninapinto)](https://www.kaggle.com/jianninapinto/)
 
 
