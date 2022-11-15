@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm an aspiring Data Scientist with a Bachelor in Economics :chart_with_upwards_trend: and Finances :moneybag:. I'm currently studying and learning Python, SQL & Databases, Data Visualization, Linear Algebra & Statistical Analysis through the Data Science Program at [Bloom Institute of Technology](https://github.com/bloominstituteoftechnology), also known as [BloomTech](https://www.bloomtech.com/). 
+I'm an aspiring Data Scientist with a Bachelor in Economics :chart_with_upwards_trend: and Finances :moneybag:. I'm currently studying and learning 🐍Python, SQL & Databases, Data Visualization, Linear Algebra & Statistical Analysis through the Data Science Program at [Bloom Institute of Technology](https://github.com/bloominstituteoftechnology), also known as [BloomTech](https://www.bloomtech.com/). 
 
 ## About Me:
 - ⚡ Fun fact: I would love to see the dance of the Northern Lights 
