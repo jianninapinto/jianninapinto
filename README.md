@@ -44,9 +44,6 @@ I'm an aspiring Data Scientist with a Bachelor in Economics :chart_with_upwards_
 <img height=60px src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png">
 </td>
 
-<td align="center" width="15%">
-<img height=60px src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg"> 
-</td>
 
 <td align="center" width="15%">
 <img height=60px src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg"> 
@@ -54,6 +51,10 @@ I'm an aspiring Data Scientist with a Bachelor in Economics :chart_with_upwards_
 
 <td align="center" width="15%">
 <img height=60px src="https://matplotlib.org/stable/_static/images/logo_dark.svg"> 
+</td>
+
+<td align="center" width="15%">
+<img height=60px src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg"> 
 </td>
 
 </tr>
