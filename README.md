@@ -1,4 +1,4 @@
-# Hello World :earth_americas:,  I'm Jiannina!👋
+# Hello World :earth_americas:,  I'm Jiannina!👋🏾
 
 <!--
 **jianninapinto/jianninapinto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,7 +19,7 @@ I'm an aspiring Data Scientist with a Bachelor in Economics :chart_with_upwards_
 
 ## About Me:
 - ⚡ Fun fact: I would love to see the dance of the Northern Lights 
-<img height=20px src="https://finland.fi/wp-content/uploads/2017/02/39-aurora-borealis-revontulet.gif"> at least once in my life. I live in Minnesota ✴️, the North Star State, where there are some chances to see them, but I haven't been lucky yet. Have you ever seen Aurora Borealis? How was your experience?
+<img height=20px src="https://finland.fi/wp-content/uploads/2017/02/39-aurora-borealis-revontulet.gif"> at least once in my life. I live in Minnesota ✴️, the North Star State. From this place you can see the Aurora Borealis, but I haven't been lucky yet. Have you ever seen them? If so, I would love to hear your experience.
 - 👩🏾‍💻 I have a Bachelor of Science 🎓 in Economics and Finances.
 - 🌱 I’m currently continuing my professional studies and improving my skills on statistics 📈, supervised machine learning, predictive modeling and 📊 data visualization.
 - 🤔 My interests are with Big Data, Financial Modeling and Recurring Neural Networks.
@@ -39,19 +39,19 @@ I'm an aspiring Data Scientist with a Bachelor in Economics :chart_with_upwards_
 <td align="center" width="15%">
 <img height=60px src="https://jupyter.org/assets/homepage/main-logo.svg"> 
 </td>
+  
+<td align="center" width="15%">
+<img height=60px src="https://matplotlib.org/stable/_static/images/logo_dark.svg"> 
+</td>
 
 <td align="center" width="15%">
 <img height=60px src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png">
 </td>
 
-
 <td align="center" width="15%">
 <img height=60px src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg"> 
 </td>
 
-<td align="center" width="15%">
-<img height=60px src="https://matplotlib.org/stable/_static/images/logo_dark.svg"> 
-</td>
 
 <td align="center" width="15%">
 <img height=60px src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg"> 
