@@ -49,7 +49,7 @@ I'm an aspiring Data Scientist with a Bachelor in Economics :chart_with_upwards_
 </td>
 
 <td align="center" width="15%">
-<img height=60px src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg"> 
+<img height=60px src="https://pandas.pydata.org/static/img/pandas.svg"> 
 </td>
 
 
