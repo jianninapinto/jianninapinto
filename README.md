@@ -15,17 +15,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a Data Scientist with a Bachelor in Economics :chart_with_upwards_trend: and Finances :moneybag:. I have worked in the export, education and banking industries. I'm currently furthering my skills by studying and learning 🐍Python, SQL & Databases, Data Visualization, Linear Algebra & Statistical Analysis, Deep Learning & ML Ops, Natural Language Processing, Neural Networks and Computer Vision through the Data Science Program at [Bloom Institute of Technology](https://github.com/bloominstituteoftechnology), also known as [BloomTech](https://www.bloomtech.com/). 
+I'm a Data Scientist with a Bachelor in Economics :chart_with_upwards_trend: and Finance :moneybag:. My professional journey has spanned across diverse industries including export, education, and banking. Having successfully completed a comprehensive Data Science Program at [Bloom Institute of Technology](https://github.com/bloominstituteoftechnology), also known as [BloomTech](https://www.bloomtech.com/), I have honed my skills in 🐍 Python, SQL & Databases, Data Visualization, Linear Algebra & Statistical Analysis, Deep Learning & ML Ops, Natural Language Processing, Neural Networks, and Computer Vision.
 
 ## About Me:
-- ⚡ Fun fact: I would love to see the dance of the Northern Lights 
-<img height=20px src="https://finland.fi/wp-content/uploads/2017/02/39-aurora-borealis-revontulet.gif"> at least once in my life. I live in Minnesota ✴️, the North Star State. From this place you can see the Aurora Borealis, but I haven't been lucky yet. Have you ever seen them? If so, I would love to hear your experience.
-- 👩🏾‍💻 I have a Bachelor of Science 🎓 in Economics and Finances.
-- 🌱 I’m currently continuing my professional studies and improving my skills on statistics 📈, supervised machine learning, predictive modeling and 📊 data visualization.
-- 🤔 My interests are with Big Data, Financial Modeling and Recurring Neural Networks.
-- 🚀 I’m pursuing a Data Science Program for a career in 🕸️ Data Science, Data Analytics, Business Intelligence or Data Engineering.
-- 🤓 I believe in what Einstein said: "Once you stop learning you start dying."
-- ✨ I'm passionate about learning and working across domains to help solve 💼 business problems.
+- ⚡ Fun fact: One of my biggest dreams is to witness the mesmerizing dance of the Northern Lights 
+<img height=20px src="https://finland.fi/wp-content/uploads/2017/02/39-aurora-borealis-revontulet.gif"> at least once in my life. Currently living in Minnesota ✴️, the North Star State, I'm hopeful to catch a glimpse of the awe-inspiring Aurora Borealis, although I haven't been fortunate enough yet. If you've experienced this breathtaking phenomenon, I would love to hear your story!
+- 👩🏾‍💻 Armed with a Bachelor of Science 🎓 in Economics and Finance, I'm passionate about continuous growth and learning. Currently, I'm focused on enhancing my statistical skills 📈, delving into supervised machine learning, predictive modeling, and 📊 data visualization.
+- 🌱 I’m continuing my professional studies and improving my statistics skills on statistics 📈, supervised machine learning, predictive modeling, and 📊 data visualization.
+- 🤔 My areas of interest encompass Machine Learning, Predictive Modeling, and Natural Language Processing, where I see immense potential for making a positive impact. I'm passionate about leveraging data-driven insights to solve real-world challenges and create meaningful outcomes.
+- 🚀 As a recent graduate of a comprehensive Data Science Program 🎓, I'm now on an exciting journey to launch my career in 🕸️ Data Science and Machine Learning. I am eager to apply my skills and passion for data-driven insights to contribute to meaningful projects. 
+- Embracing Einstein's wisdom, I firmly believe that "Once you stop learning, you start dying."
+- ✨ I find true fulfillment in learning and collaborating across diverse domains, united by the common goal of solving 💼 business problems with data-driven insights.
 
 ## Languages and Tools:
 
